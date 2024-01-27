@@ -6,7 +6,7 @@ An android app primarlily focused to perform learning content for java Language 
 ## Usage
 You can download the project using the command-line or you can directly download it from the github
 
-    git clone git-repo-link
+    git clone https://github.com/Zeyd17/LearningJava.git
 
 
 After downloading the project you have to open the project through the android-Studio,make sure you are using the latest version of the android-studio along with all the necessary dependencies installed and it is important to have an emulator installed(you can use a physical device too).After performing all the necessary operations select your emulator device and press the run button above and it will create an instance of the emulator running the app
